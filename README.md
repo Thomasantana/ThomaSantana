@@ -9,7 +9,7 @@ Me chamo Thomas Santana da Silva, tenho 25 anos e sou natural de Volta Redonda -
       <a href="https://www.linkedin.com/in/thomas-santana0/">
          <img alt="Linkedin" title="Meu Linkedin" src="https://custom-icon-badges.demolab.com/badge/-%20LINKEDIN-blue?style=for-the-badge&logoColor=white&logo=repo"/>
          </a> 
-      <a href="hhttps://account.microsoft.com/profile/?refd=outlook.live.com">
+      <a href="https://outlook.live.com/mail/0/">
          <img alt="Email" title="Meu Email" src="https://custom-icon-badges.demolab.com/badge/-%20EMAIL%20-blue?style=for-the-badge&logo=mail&logoColor=white"/>
          </a> 
       <a href="https://github.com/Thomasantana?tab=followers">
