@@ -1,6 +1,6 @@
 # 🧑‍💻Thomas Santana
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Thomas Santana da Silva, tenho 25 anos e sou natural de Volta Redonda - RJ. Concluí o ensino médio no IEPMM. Atualmente, estou cursando Sistemas de Informação na UGB.
 
